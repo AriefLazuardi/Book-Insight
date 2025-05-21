@@ -83,8 +83,9 @@ http://localhost:8000
 
 ## For questions or feedback, contact:
 
-Name Mohammad Arief Lazuardi
-Email [m.arieflazuardi.com]
+### Name Mohammad Arief Lazuardi
+
+### Email [m.arieflazuardi.com]
 
 ## 📄 License
 
