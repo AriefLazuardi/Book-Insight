@@ -15,6 +15,10 @@ use App\Http\Controllers\AuthorController;
 |
 */
 
+Route::get('/', function () {
+    return redirect()->route('books.index');
+});
+
 Route::get('/books', [BookController::class, 'index'])->name('books.index');
 
 Route::get('/top-author', [AuthorController::class, 'topauthor'])->name('authors.top');
